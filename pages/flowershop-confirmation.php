@@ -31,7 +31,7 @@ $form_bouquet = $_POST["bouquet"]; // untrusted
       <dd><?php echo htmlspecialchars($form_name); ?></dd>
 
       <dt>Contact Phone</dt>
-      <dd><?php echo htmlspecialchars($form_name); ?></dd>
+      <dd><?php echo htmlspecialchars($form_phone); ?></dd>
 
       <dt>Bouquet</dt>
       <dd><?php echo htmlspecialchars($form_bouquet); ?></dd>
